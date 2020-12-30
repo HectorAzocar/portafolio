@@ -1,0 +1,46 @@
+.bg-pink {
+    background-color: #660066;
+}
+
+header {
+    background-image: url("../img/bg_hero.png") ;
+    height: 550px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position:center ;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+.withe {
+    color: white;
+}
+
+main {
+    margin: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.col-12 {
+    text-align: center;
+    color:black ;
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+.col-6 {
+    text-align: left;
+    color: #524c4c;
+    font-family:sans-serif;
+    font-size: 1em;
+}
+
+.card-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+ 
